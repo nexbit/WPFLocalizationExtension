@@ -55,8 +55,9 @@
     <Reference Include="System.Xml" />
     <Reference Include="System.Net" />
     <Reference Include="System.Windows.Browser" />
-    <Reference Include="XAMLMarkupExtensions">
-      <HintPath>..\packages\XAMLMarkupExtensions.1.1.6.3\lib\sl50\XAMLMarkupExtensions.dll</HintPath>
+    <Reference Include="XAMLMarkupExtensions, Version=1.1.6.3, Culture=neutral, PublicKeyToken=7870c08aab743e52, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\XAMLMarkupExtensions-Nexbit.2.0.0\lib\sl50\XAMLMarkupExtensions.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
