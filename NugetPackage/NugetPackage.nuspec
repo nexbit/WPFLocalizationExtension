@@ -28,8 +28,8 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="..\WPFLocalizeExtension\binWPF\Release\WPFLocalizeExtension.dll" target="lib\net35" />
-    <file src="..\WPFLocalizeExtension\binWPF\Release\WPFLocalizeExtension.xml" target="lib\net35" />
+    <file src="..\WPFLocalizeExtension\binWPF\Release\WPFLocalizeExtension.dll" target="lib\net45" />
+    <file src="..\WPFLocalizeExtension\binWPF\Release\WPFLocalizeExtension.xml" target="lib\net45" />
     <file src="..\WPFLocalizeExtension\binWP7\Release\WP7LocalizeExtension.dll" target="lib\wp8" />
     <file src="..\WPFLocalizeExtension\binWP7\Release\WP7LocalizeExtension.XML" target="lib\wp8" />
     <file src="..\WPFLocalizeExtension\binSL\Release\SLLocalizeExtension.dll" target="lib\sl50" />

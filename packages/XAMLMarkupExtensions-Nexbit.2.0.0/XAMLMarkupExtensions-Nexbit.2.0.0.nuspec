@@ -9,7 +9,7 @@
     <licenseUrl>http://xamlmarkupextensions.codeplex.com/license</licenseUrl>
     <projectUrl>http://xamlmarkupextensions.codeplex.com/</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>A base class for nested markup extensions and a collection of useful extensions for WPF 3.5, 4.0 and SL 5.0.</description>
+    <description>A base class for nested markup extensions and a collection of useful extensions for WPF 3.5, 4.5 and SL 5.0.</description>
     <releaseNotes>* Fixes a bug related to DependencyProperties and SL.</releaseNotes>
     <tags>WPF SL markup extension nesting</tags>
   </metadata>
