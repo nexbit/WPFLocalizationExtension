@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
   <metadata>
     <id>WpfLocalizeExtension-Nexbit</id>
-    <version>3.0.0</version>
+    <version>3.0.1</version>
     <title>WPF Localization Extension (Nexbit Fork)</title>
     <authors>Bernhard Millauer,Uwe Mayer,Paolo Furini</authors>
     <owners>Bernhard Millauer,Uwe Mayer,Paolo Furini</owners>
