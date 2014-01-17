@@ -8,6 +8,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <NuSpecFile>NugetPackage.nuspec</NuSpecFile>
+	<CustomBuildProcess>true</CustomBuildProcess>
     <BuildPackage>true</BuildPackage>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -25,5 +26,5 @@
     <None Include="NugetPackage.nuspec" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" Condition="false"/>
-  <Import Project="..\.nuget\NuGet.targets" />
+  <Import Project="..\BuildSupport\nuget.targets" />
 </Project>
