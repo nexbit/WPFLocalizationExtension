@@ -34,3 +34,8 @@ ClientBin/*
 *.zip
 *.pfx
 Example.xlsx
+
+## Added by Nexbit
+*.jmconfig
+*.snk
+*.pfx
